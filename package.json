@@ -1,0 +1,10 @@
+{
+  "name": "vter_translate",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "socks-proxy-agent": "^5.0.0",
+    "ytdl-core": "^2.0.1"
+  }
+}

@@ -5,6 +5,8 @@
   "devDependencies": {
     "https-proxy-agent": "^5.0.0",
     "socks-proxy-agent": "^5.0.0",
-    "ytdl-core": "^2.0.1"
+    "ytdl-core": "^2.0.1",
+    "m3u8stream": "^0.6.5",
+    "jsonpath": "^1.0.2"
   }
 }
